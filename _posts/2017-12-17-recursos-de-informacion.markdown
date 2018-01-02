@@ -112,7 +112,7 @@ plot(africa, xlim = c(-20, 60), ylim = c(-40, 35), col = colors()[1:100], bg = "
 {% endhighlight %}
 
 {:refdef: style="text-align: center;"}
-![gif]({{ site.baseimg }}/Rplot.png)
+![gif]({{ site.baseimg }}/images/Rplot.png)
 {: refdef} 
 
  
