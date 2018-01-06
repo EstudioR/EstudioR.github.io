@@ -4,7 +4,7 @@ title:  "Sobre nosotros"
 categories: sobre_nosotros
 ---
 
-Somos un grupo de estudiantes y profesionales de diversas disciplinas, interesados en la implementación del lenguaje de programación estadístico `R` (distribuido bajo la licencia [GNU](https://en.wikipedia.org/wiki/GNU)), como herramienta de cómputo científico para el análisis, manejo y visualización de datos; en aras de contribuir a la resolución de problemas específicos en áreas de interés como las ciencias biológicas, ingeniería, econometría, ciencias humanas, entre otras.
+Somos un grupo de estudiantes y profesionales de diversas disciplinas, interesados en la implementación del lenguaje de programación estadístico `R` (distribuido bajo la licencia [*GPL*](https://en.wikipedia.org/wiki/GNU_General_Public_License)), como herramienta de cómputo científico para el análisis, manejo y visualización de datos; en aras de contribuir a la resolución de problemas específicos en áreas de interés como las ciencias biológicas, ingeniería, econometría, ciencias humanas, entre otras.
 
 El grupo está conformado por las siguientes personas:
 
