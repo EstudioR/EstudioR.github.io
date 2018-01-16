@@ -103,5 +103,5 @@ A continuación, el usuario podrá acceder en línea a cada uno de los tópicos 
 
 - [Cadena productiva del café en Colombia](/guias_descriptiva/Cafe_David.html) **-** ***David Morales R.***
 - [Créditos sector agropecuario Colombia 2017](/guias_descriptiva/Creditos_Leo.html)**-** ***Jorge L. López M.***
-- [Temperatura y precipitación promedio en Colombia (años 1981-2010)](/guias_descriptiva/TempPrec_Cristian.html)**-** ***Cristián Rivera G.***
+- [Temperatura y precipitación promedio en Colombia (años 1981-2010)](/guias_descriptiva/TempPrec_Cristian.html)**-** ***Cristian Rivera G.***
 - [Descargar](/guias_descriptiva/download/ejemplos.zip)
