@@ -31,9 +31,9 @@ En esta sección el usario podrá:
 
 - [Contenido](/guias_experimentos/Contenido_Inferencial.pdf)
 
-### 2. Introducción al diseño de experimentos
+### 2-3. Introducción al diseño de experimentos y Elementos de inferencia estadística
 
-### 3. Elementos de inferencia estadística
+- [Introducción y Elementos de inferencia estadstica](/guias_experimentos/1_Introduccion.html)
 
 ### 4. Diseños de experimentos de un factor
 
